@@ -75,11 +75,13 @@ Contributions are welcome! Follow these steps to contribute:
 
 <h1> Contact Information </h1>
 
-For questions, feedback, or support, please contact [your email address].
+For questions, feedback, or support, please contact me on:-
+
+LinkedIn: Yashi Singh (www.linkedin.com/in/yashi-singh-b4143a246)
 
 <h1> Credits </h1>
 
-- FreeCodeCamp: [Link to the tutorial or resource](https://www.freecodecamp.org/)
+- FreeCodeCamp: [https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1](https://www.freecodecamp.org/)
 
 <h1> License </h1>
 
