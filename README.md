@@ -43,7 +43,7 @@ To get a local copy up and running, follow these simple steps.
 ### Installation
 1. Clone the repo:
    ```bash
-   git clone https://gitlab.com/Yashi-Singh-1/Cafe-Menu.git
+   git clone https://github.com/Yashi-Singh-9/Cafe-Menu.git
    ```
 
 2. Open `index.html` in your web browser to view the menu.
